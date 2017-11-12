@@ -1,0 +1,8 @@
+.project
+.idea
+dev
+logs
+/config/CoreConfig.php
+/.htaccess
+/dev/
+/cronjobs/cron.sh
